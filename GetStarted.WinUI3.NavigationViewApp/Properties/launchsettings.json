@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "GetStarted.WinUI3.NavigationViewApp (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "GetStarted.WinUI3.NavigationViewApp (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
